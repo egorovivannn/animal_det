@@ -26,3 +26,5 @@
   cd web_service
   
 ```
+
+Веса лежат по пути https://drive.google.com/drive/folders/1ox0uARKjOAv2_nTi5hGObQ7wLhu4QFy7?usp=sharing
