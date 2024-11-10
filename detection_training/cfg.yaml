@@ -1,0 +1,9 @@
+path: ''
+train: /home/ivan/animals_hack/train_data_minprirodi/train.txt
+val: /home/ivan/animals_hack/train_data_minprirodi/val.txt
+
+names: 
+  0: bad
+  1: good
+
+nc: 2

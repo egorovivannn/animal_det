@@ -1,0 +1,10 @@
+pandas 
+albumentations
+opencv-python
+torch
+timm
+open_clip
+scikit_learn
+transformers
+tqdm
+numpy
